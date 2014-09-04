@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContextState>
+<org.eclipse.mylyn.context.ui.editors>
+<MonitoredWindowOpenEditors class="org.eclipse.ui.internal.WorkbenchWindow" isActive="true" isLaunching="true" number="0">
+<editor id="org.eclipse.php.editor">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Cake_IFM11/app/Config/database.php"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3003" selectionTopPixel="1872"/>
+</editor>
+<editor id="org.eclipse.php.editor">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/VM_Cake/app/Config/database.php"/>
+<editorState selectionHorizontalPixel="0" selectionLength="647" selectionOffset="2340" selectionTopPixel="1430"/>
+</editor>
+<editor id="org.eclipse.ui.DefaultTextEditor">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Cake_IFM11/sql.txt"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1046" selectionTopPixel="1222"/>
+</editor>
+<editor id="org.eclipse.ui.DefaultTextEditor">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/IFM_CAKE_1/win_command_history.txt"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="605" selectionTopPixel="146"/>
+</editor>
+</MonitoredWindowOpenEditors>
+</org.eclipse.mylyn.context.ui.editors>
+</ContextState>
