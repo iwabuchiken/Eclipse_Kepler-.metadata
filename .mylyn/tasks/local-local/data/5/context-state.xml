@@ -3,12 +3,12 @@
 <org.eclipse.mylyn.context.ui.editors>
 <MonitoredWindowOpenEditors class="org.eclipse.ui.internal.WorkbenchWindow" isActive="true" isLaunching="true" number="0">
 <editor id="org.eclipse.cdt.ui.editor.CEditor">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/step1/dm1.cpp"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="817" selectionTopPixel="222"/>
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/step1/step1.cpp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1221" selectionTopPixel="918"/>
 </editor>
 <editor id="org.eclipse.cdt.ui.editor.CEditor">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/step1/step1.cpp"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="496" selectionTopPixel="249"/>
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/step1/dm1.cpp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="778" selectionTopPixel="0"/>
 </editor>
 <editor id="org.eclipse.cdt.ui.editor.CEditor">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/step1/dm1.h"/>
@@ -16,7 +16,11 @@
 </editor>
 <editor id="org.eclipse.cdt.ui.editor.CEditor">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ODE_Tut_10/main.cpp"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="6594" selectionTopPixel="4992"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="5635" selectionTopPixel="4022"/>
+</editor>
+<editor id="org.eclipse.ui.DefaultTextEditor">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/step1/.gitignore"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="12" selectionTopPixel="0"/>
 </editor>
 </MonitoredWindowOpenEditors>
 </org.eclipse.mylyn.context.ui.editors>

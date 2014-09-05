@@ -3,12 +3,12 @@
 <org.eclipse.mylyn.context.ui.editors>
 <MonitoredWindowOpenEditors class="org.eclipse.ui.internal.WorkbenchWindow" isActive="true" isLaunching="true" number="0">
 <editor id="org.eclipse.cdt.ui.editor.CEditor">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/step1/step1.cpp"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="995" selectionTopPixel="540"/>
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/step1/dm1.cpp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="226" selectionTopPixel="0"/>
 </editor>
 <editor id="org.eclipse.cdt.ui.editor.CEditor">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Embedded/D-90~/D-91_PIC16_color_changer/D-91_PIC16_color_changer_v-1.0/D-91_PIC16_color_changer_v-1.0.c"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="4" selectionTopPixel="0"/>
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/step1/step1.cpp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1215" selectionTopPixel="1120"/>
 </editor>
 </MonitoredWindowOpenEditors>
 </org.eclipse.mylyn.context.ui.editors>
