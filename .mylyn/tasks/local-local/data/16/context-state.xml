@@ -3,16 +3,12 @@
 <org.eclipse.mylyn.context.ui.editors>
 <MonitoredWindowOpenEditors class="org.eclipse.ui.internal.WorkbenchWindow" isActive="true" isLaunching="true" number="0">
 <editor id="org.eclipse.cdt.ui.editor.CEditor">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Embedded/D_85_16F84A_remote/D_85_Remote_v_5_3_2b_Rcv/D_85_Remote_v_5_3_2b_Rcv.c"/>
-<editorState selectionHorizontalPixel="0" selectionLength="397" selectionOffset="3304" selectionTopPixel="6286"/>
-</editor>
-<editor id="org.eclipse.cdt.ui.editor.CEditor">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Embedded/D-90~/D-91_PIC16_color_changer/D-91_PIC16_color_changer_v-4.1/D-91_PIC16_color_changer_v-4.1.c"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="881" selectionTopPixel="780"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3600" selectionTopPixel="5798"/>
 </editor>
 <editor id="org.eclipse.cdt.ui.editor.CEditor">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Embedded/D-90~/D-91_PIC16_color_changer/D-91_PIC16_color_changer_v-3.1/D-91_PIC16_color_changer_v-3.1.c"/>
-<editorState selectionHorizontalPixel="0" selectionLength="51" selectionOffset="5191" selectionTopPixel="8008"/>
+<editorState selectionHorizontalPixel="0" selectionLength="2" selectionOffset="4409" selectionTopPixel="7370"/>
 </editor>
 </MonitoredWindowOpenEditors>
 </org.eclipse.mylyn.context.ui.editors>
