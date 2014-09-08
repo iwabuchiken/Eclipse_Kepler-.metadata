@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContextState>
+<org.eclipse.mylyn.context.ui.editors>
+<MonitoredWindowOpenEditors class="org.eclipse.ui.internal.WorkbenchWindow" isActive="true" isLaunching="true" number="0">
+<editor id="org.eclipse.cdt.ui.editor.CEditor">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Embedded/D-90~/D-91_PIC16_color_changer/D-91_PIC16_color_changer_v-5.0_rcv/D-91_PIC16_color_changer_v-5.0_rcv.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="6393" selectionTopPixel="10556"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Embedded/D-90~/D-91_PIC16_color_changer/D-91_PIC16_color_changer_v-3.1/D-91_PIC16_color_changer_v-3.1.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="4329" selectionTopPixel="6838"/>
+</editor>
+</MonitoredWindowOpenEditors>
+</org.eclipse.mylyn.context.ui.editors>
+</ContextState>
