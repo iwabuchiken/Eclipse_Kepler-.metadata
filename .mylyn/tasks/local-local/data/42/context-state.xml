@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContextState>
+<org.eclipse.mylyn.context.ui.editors>
+<MonitoredWindowOpenEditors class="org.eclipse.ui.internal.WorkbenchWindow" isActive="true" isLaunching="true" number="0">
+<editor id="org.eclipse.php.editor">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Cake_NR5/app/Controller/KeywordsController.php"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="542" selectionTopPixel="390"/>
+</editor>
+<editor id="org.eclipse.php.editor">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Cake_NR5/app/Controller/ArticlesController.php"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="309" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.php.editor">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Cake_NR5/app/View/Elements/keywords/index_t_headers.ctp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1808" selectionTopPixel="1728"/>
+</editor>
+<editor id="org.eclipse.php.editor">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Cake_NR5/app/View/Articles/index.ctp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="188" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.php.editor">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Cake_NR5/app/View/Elements/articles/index/_header.ctp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="173" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.php.editor">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Cake_NR5/app/View/Articles/add.ctp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="163" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.php.editor">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Cake_NR5/app/View/Elements/layouts/links.ctp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1519" selectionTopPixel="1586"/>
+</editor>
+</MonitoredWindowOpenEditors>
+</org.eclipse.mylyn.context.ui.editors>
+</ContextState>
