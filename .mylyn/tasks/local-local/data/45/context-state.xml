@@ -3,16 +3,28 @@
 <org.eclipse.mylyn.context.ui.editors>
 <MonitoredWindowOpenEditors class="org.eclipse.ui.internal.WorkbenchWindow" isActive="true" isLaunching="true" number="0">
 <editor id="org.eclipse.php.editor">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Cake_NR5/app/Controller/HistorysController.php"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="132" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.php.editor">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Cake_NR5/app/Controller/ArticlesController.php"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="9988" selectionTopPixel="10816"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="51278" selectionTopPixel="56498"/>
 </editor>
 <editor id="org.eclipse.php.editor">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Cake_NR5/app/View/Elements/articles/index/_idx_test_D_9_V_1_1.ctp"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="904" selectionTopPixel="416"/>
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Cake_NR5/app/View/Elements/historys/index_t_entries.ctp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="460" selectionTopPixel="300"/>
+</editor>
+<editor id="org.eclipse.ui.DefaultTextEditor">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Cake_NR5/sql.txt"/>
+<editorState selectionHorizontalPixel="0" selectionLength="99" selectionOffset="58" selectionTopPixel="0"/>
 </editor>
 <editor id="org.eclipse.php.editor">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Cake_IFM11/app/Controller/ImagesController.php"/>
-<editorState selectionHorizontalPixel="0" selectionLength="6" selectionOffset="4682" selectionTopPixel="4108"/>
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Cake_NR5/app/View/Elements/articles/index/_idx_articles_line.ctp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="381" selectionTopPixel="141"/>
+</editor>
+<editor id="org.eclipse.php.editor">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Cake_NR5/app/View/Elements/articles/index/_idx_articles.ctp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1259" selectionTopPixel="1828"/>
 </editor>
 </MonitoredWindowOpenEditors>
 </org.eclipse.mylyn.context.ui.editors>
