@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContextState>
+<org.eclipse.mylyn.context.ui.editors>
+<MonitoredWindowOpenEditors class="org.eclipse.ui.internal.WorkbenchWindow" isActive="true" isLaunching="true" number="0">
+<editor id="org.eclipse.php.editor">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CR6_cake/app/View/Words/add.ctp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="939" selectionOffset="70" selectionTopPixel="1188"/>
+</editor>
+<editor id="org.eclipse.php.editor">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CR6_cake/app/View/Texts/add.ctp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="653" selectionTopPixel="598"/>
+</editor>
+<editor id="org.eclipse.ui.DefaultTextEditor">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CR6_cake/.gitignore"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="129" selectionTopPixel="0"/>
+</editor>
+</MonitoredWindowOpenEditors>
+</org.eclipse.mylyn.context.ui.editors>
+</ContextState>
