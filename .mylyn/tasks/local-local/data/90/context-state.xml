@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContextState>
+<org.eclipse.mylyn.context.ui.editors>
+<MonitoredWindowOpenEditors class="org.eclipse.ui.internal.WorkbenchWindow" isActive="true" isLaunching="true" number="0">
+<editor id="org.eclipse.php.editor">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Cake_SL3/app/View/Elements/purhistorys/index_t_entries.ctp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2006" selectionTopPixel="2149"/>
+</editor>
+<editor id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Cake_SL3/app/webroot/js/main.js"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3929" selectionTopPixel="4401"/>
+</editor>
+<editor id="org.eclipse.php.editor">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Cake_SL3/app/Controller/PurhistorysController.php"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="7111" selectionTopPixel="7644"/>
+</editor>
+<editor id="org.eclipse.php.editor">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Cake_SL3/app/View/PurHistorys/index/_inTable_Si_List.ctp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="339" selectionTopPixel="260"/>
+</editor>
+<editor id="org.eclipse.wst.css.core.csssource.source">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Cake_SL3/app/webroot/css/main.css"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="5659" selectionTopPixel="9949"/>
+</editor>
+<editor id="org.eclipse.php.editor">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Cake_SL3/app/View/Elements/purhistorys/index_t_headers.ctp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="124" selectionTopPixel="0"/>
+</editor>
+</MonitoredWindowOpenEditors>
+</org.eclipse.mylyn.context.ui.editors>
+</ContextState>
