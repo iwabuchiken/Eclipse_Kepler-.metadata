@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContextState>
+<org.eclipse.mylyn.context.ui.editors>
+<MonitoredWindowOpenEditors class="org.eclipse.ui.internal.WorkbenchWindow" isActive="true" isLaunching="true" number="0">
+<editor id="org.eclipse.cdt.ui.editor.CEditor">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Embedded/D-100~/D-108_Aoki_TMR0/D-108_v_2_5_3/D-108_v_2_5_3.X/D-108_v_2_5_3.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="23" selectionOffset="3755" selectionTopPixel="4082"/>
+</editor>
+<editor id="org.eclipse.ui.DefaultTextEditor">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Embedded/D-100~/D-108_Aoki_TMR0/D-108_v_2_5_3/D-108_v_2_5_3.X/D-108_v_2_5_3.c~v_2_6_0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="20" selectionOffset="587" selectionTopPixel="806"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Embedded/D-100~/D-108_Aoki_TMR0/D-108_v_2_5_3/D-108_v_2_5_3.X/debug.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="29" selectionOffset="642" selectionTopPixel="1066"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Embedded/D-100~/D-108_Aoki_TMR0/D-108_v_2_5_3/D-108_v_2_5_3.X/SD1602_4bit_mode.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3579" selectionTopPixel="1890"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Embedded/D-100~/D-108_Aoki_TMR0/D-108_v_2_4_1/D-108_v_2_4_1.X/D-108_v_2_4_1.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="13" selectionOffset="439" selectionTopPixel="390"/>
+</editor>
+</MonitoredWindowOpenEditors>
+</org.eclipse.mylyn.context.ui.editors>
+</ContextState>
