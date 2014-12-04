@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContextState>
+<org.eclipse.mylyn.context.ui.editors>
+<MonitoredWindowOpenEditors class="org.eclipse.ui.internal.WorkbenchWindow" isActive="true" isLaunching="true" number="0">
+<editor id="org.eclipse.cdt.ui.editor.CEditor">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Embedded/D-100~/D-110/D-110_v_1_0/D-110_v_1_0.X/D-110_v_1_0.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="577" selectionTopPixel="624"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Embedded/TEST/D-108/v_2-7-0/D-108_v-2-7-0.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="573" selectionOffset="2233" selectionTopPixel="3224"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Embedded/D-100~/D-110/D-110_v_1_0/D-110_v_1_0.X/lib_D-108_v_2_5_3.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2627" selectionTopPixel="843"/>
+</editor>
+</MonitoredWindowOpenEditors>
+</org.eclipse.mylyn.context.ui.editors>
+</ContextState>
