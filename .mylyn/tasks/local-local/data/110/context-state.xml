@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContextState>
+<org.eclipse.mylyn.context.ui.editors>
+<MonitoredWindowOpenEditors class="org.eclipse.ui.internal.WorkbenchWindow" isActive="true" isLaunching="true" number="0">
+<editor id="org.eclipse.ui.DefaultTextEditor">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Embedded/TEST/memos.txt"/>
+<editorState selectionHorizontalPixel="0" selectionLength="55" selectionOffset="531" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Embedded/TEST/D-110/v_3-0/D-110_v-3-0.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3353" selectionTopPixel="999"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Embedded/TEST/D-108/v_2-7-0/D-108_v-2-7-0.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="149" selectionOffset="2370" selectionTopPixel="3458"/>
+</editor>
+</MonitoredWindowOpenEditors>
+</org.eclipse.mylyn.context.ui.editors>
+</ContextState>
