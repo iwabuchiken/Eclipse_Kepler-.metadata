@@ -4,7 +4,15 @@
 <MonitoredWindowOpenEditors class="org.eclipse.ui.internal.WorkbenchWindow" isActive="true" isLaunching="true" number="0">
 <editor id="org.eclipse.cdt.ui.editor.CEditor">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Embedded/D-100~/D-111/D-111_v_1_0/D-111_stopwatch.X/D-111_v_1_0.c"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3337" selectionTopPixel="3406"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3501" selectionTopPixel="3796"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Embedded/D-100~/D-111/D-111_v_1_0/D-111_stopwatch.X/debug.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="15" selectionOffset="885" selectionTopPixel="1664"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Embedded/D-100~/D-111/D-111_v_1_0/D-111_stopwatch.X/lib_v_1.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="627" selectionTopPixel="780"/>
 </editor>
 </MonitoredWindowOpenEditors>
 </org.eclipse.mylyn.context.ui.editors>
