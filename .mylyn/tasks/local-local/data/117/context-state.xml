@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ContextState>
 <org.eclipse.mylyn.context.ui.editors>
-<MonitoredWindowOpenEditors class="org.eclipse.ui.internal.WorkbenchWindow" isActive="true" isLaunching="true" number="0"/>
+<MonitoredWindowOpenEditors class="org.eclipse.ui.internal.WorkbenchWindow" isActive="true" isLaunching="true" number="0">
+<editor id="org.eclipse.cdt.ui.editor.CEditor">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Embedded/D-100~/D-111/D-111_v_1_0/D-111_stopwatch.X/D-111_v_1_0.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="13474" selectionTopPixel="5226"/>
+</editor>
+</MonitoredWindowOpenEditors>
 </org.eclipse.mylyn.context.ui.editors>
 </ContextState>
